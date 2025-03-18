@@ -10,10 +10,10 @@ Il génère également un lien vers la position exacte de l'adresse IP sur **Goo
 ---
 
 ## Fonctionnalités  
-**✅ Analyse d'adresse IP  
-✅ Affiche des informations détaillées sur l'IP (pays, ville, code postal ,longitude, etc.)  
+**✅ Analyse d'adresse IP 
+✅ Affiche des infos sur l'IP (pays, ville, code postal, etc...)
 ✅ Génère un lien vers Google Maps pour voir la localisation de l'IP  
-✅ Interface colorée et lisible avec `colorama`  
+✅ Interface colorée et lisible avec colorama
 ✅ Interface utilisateur centrée pour une expérience agréable**
 
 ---
