@@ -39,7 +39,7 @@ pkg install python-pip -y
 **5. Clonez ce dépôt**
 
 
-git clone https://github.com/votre-utilisateur/ip-analyser
+git clone https://github.com/theworldofhacking/ip-analyser
 
 **6. Allez dans le répertoire du projet**
 
@@ -59,7 +59,7 @@ pip install requests && pip install colorama
 **8. Exécutez le script via la commande suivante**
 
 
-python ip_analyser.py
+python ip-analyser.py
 
 ---
 
@@ -82,6 +82,6 @@ python ip_analyser.py
 
 ---
 
-**Merci d’utiliser IP-ANALYSER ! 🚀**
+**Merci d’utiliser IP-ANALYSER !!!**
 
 ---
